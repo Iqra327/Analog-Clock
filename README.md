@@ -1,5 +1,5 @@
 <h1>Analog Clock</h1>
-A simple analog clock that displays the current time. The clock is built using HTML, CSS, Bootstrap, and JavaScript.
+A simple analog clock that displays the current time. The clock is built using HTML, CSS and JavaScript.
 
 <h2>Features</h2>
 <ul>
